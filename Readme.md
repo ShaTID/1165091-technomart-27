@@ -1,7 +1,7 @@
-# Личный проект «Техномарт»
+﻿# Личный проект «Техномарт»
 
 * Студент: [Илья Шатарев](https://up.htmlacademy.ru/htmlcss/27/user/1165091).
-* Наставник: [Илья Шишлачев] (https://up.htmlacademy.ru/htmlcss/27/user/1251345).
+* Наставник: Илья Шишлачев (https://up.htmlacademy.ru/htmlcss/27/user/1251345).
 
 ---
 
